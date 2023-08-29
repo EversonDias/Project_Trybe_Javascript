@@ -33,7 +33,7 @@ Para acessar e executar este projeto, siga os passos abaixo:
 2. Clone o Projeto
 
 ```bash
-git clone  ZooFunction
+git clone https://github.com/EversonDias/Project_Trybe_Javascript_Zoo_Functions.git ZooFunction
 ```
 
 3. Entre no projeto
